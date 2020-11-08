@@ -105,3 +105,57 @@ Tasarım kalıpları 3 ana başlık altında incelenebilir;
 ![](https://i.hizliresim.com/ygSg69.jpg)
 
 [Kaynak](https://medium.com/software-development-turkey/abstract-class-ve-interface-aras%C4%B1ndaki-farklar-nelerdir-3c0a4f956eba)
+
+----------------------------------------------------------------------------------
+
+## **Github Flow Alternatifleri**
+
+## Github Flow
+
+**Github Flow** Github tarafında 2011 yılında oluşturulan bir workflow'dur.
+
+### Avantajları
+
+Sürdürülebilir entegrasyon imkanları olduğu gibi aynı zamanda Git FLow'a dda alternatif oluşturmaktadır. Aynı zamanda bir versiyonu yönetmekte ideal bir workflow'dur.
+
+### Dezavantajları
+
+Projeler hızlı bir süreçte kompleks hale geelbildiği gibi çoklu versiyon yönetimlerinde pek başarılı değildir.
+
+## Git Flow
+
+**Git Flow** en popüler  workflow'dur. 2 ana branch üzerine kurulmuştur.(master ve develop)
+
+### Avantajları
+
+Projenin yaşam döngüsü süreçlerinde branchlerin daha temiz bir şekilde saklanmasını sağlayabildiği gibi branchlerin isimlendirme yöntemleri ile proje yönetimi süreçlerinde kullanıcıya kolaylık sağlar. Çoklu versiyon yönetimleri rahatça yapılabilir. Git eklenti desteği mevcuttur.     
+
+### Dezavantajları
+
+2 ana branch bölündüğü için entegrasyon açısından ve sürekli üretim açısından dezavantajlıdır. Tekli versiyon yönetimleri konusunda pek başarılı olduğu söylenmeyeceği gibi Git geçmişi çok sağlıklı bir şekilde kullanıcıya bilgi vermez.
+
+## GitLab Flow
+
+**GitLab Flow,** GitLab tarafından 2014 yılında oluşturulmuştur. 
+
+### Avantajları
+
+Tekli versiyonlar için avantajlı olduğu gibi Git geçmişi düzgün şekilde kullancııya bilgi verebilmektedir.
+
+### Dezavantajları
+
+Kullanım açısında Github Flow'dan daha kompleks bir yapıya sahip olduğu gibi, çoklu versiyon kullanımlarında Git Flow kadar kompleks bir hale dönüşmektedir.
+
+## One Flow
+
+**One Flow** 2015 yılında  Adam Ruka tarafından oluşturulmuştur.  Git Flow'a alternatif olarak oluşturulan One Flow'un, Git Flow  ile arasındaki fark One Flow'da develop branch'inin olmamasıdır.
+
+### Avantajları
+
+Tek versiyon için uygun olduğu gibi git geçmişi konusunda da kullanıcıya sağlıklı bilgiler verebilir. Aynı zamanda programlama süreçlerinde takım kararlarına göre gerekli değişiklikler gösterebilir.
+
+### Dezavantajları
+
+Çoklu versiyon kullanımlarına göre uygun olmadığı gibi içerisinde bulunan Feature branch'i sürdürülebilir entegrasyon açısından dezavantajdır. 
+
+[Kaynak](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
