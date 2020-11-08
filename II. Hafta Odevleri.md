@@ -102,7 +102,6 @@ Tasarım kalıpları 3 ana başlık altında incelenebilir;
 
 #    Interface ve Abstract sınıflar arasındaki farklar
 
-![fark](https://hizliresim.com/ygSg69)
-
+![](https://i.hizliresim.com/ygSg69.jpg)
 
 [Kaynak](https://medium.com/software-development-turkey/abstract-class-ve-interface-aras%C4%B1ndaki-farklar-nelerdir-3c0a4f956eba)
