@@ -97,3 +97,11 @@ Tasarım kalıpları 3 ana başlık altında incelenebilir;
 [Kaynak I.](https://deryacakmak.medium.com/tasar%C4%B1m-kal%C4%B1plar%C4%B1-nelerdir-cd216ba47921)
 
 [Kaynak II.](https://en.wikipedia.org/wiki/Design_Patterns)
+
+------------------------------------------------------------------------------
+
+#    Interface ve Abstract sınıflar arasındaki farklar
+
+![](https://hizliresim.com/ygSg69)
+
+[Kaynak](https://medium.com/software-development-turkey/abstract-class-ve-interface-aras%C4%B1ndaki-farklar-nelerdir-3c0a4f956eba)
